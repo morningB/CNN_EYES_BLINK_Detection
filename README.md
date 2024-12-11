@@ -19,13 +19,14 @@
 3. 알고리즘
 - CNN 모델을 이용하여 학습시켰다. Cnn 클래스에서 layer에 대한 하이퍼파라미터는 아래에 표같이 설정하였다
 
-  > layer에 대한 정보
-  
-  ![image](https://github.com/morningB/CNN_EYES_BLINK_Detection/assets/114423035/79f16a3f-7c95-4d31-bc4f-b35f1b609e7e)
 
- > layer4까지의 완전 연결층
+> layer에 대한 정보
+ 
+![image](https://github.com/morningB/CNN_EYES_BLINK_Detection/assets/114423035/79f16a3f-7c95-4d31-bc4f-b35f1b609e7e)
 
-  ![image](https://github.com/morningB/CNN_EYES_BLINK_Detection/assets/114423035/ec952761-63c7-4b22-be85-f533bed029be)
+> layer4까지의 완전 연결층
+
+![image](https://github.com/morningB/CNN_EYES_BLINK_Detection/assets/114423035/ec952761-63c7-4b22-be85-f533bed029be)
 
 
 - 인공지능이 더욱 복잡한 데이터 셋을 이해하게 만들기 위해 epoch을 늘려서 Accuracy를 증가시켰다.
